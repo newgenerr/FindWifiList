@@ -50,7 +50,7 @@ packages:
     source: hosted
     version: "1.17.1"
   connectivity_plus:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: connectivity_plus
       sha256: "8599ae9edca5ff96163fca3e36f8e481ea917d1e71cdad912c084b5579913f34"
@@ -161,7 +161,7 @@ packages:
     source: hosted
     version: "1.9.1"
   network_info_plus:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: network_info_plus
       sha256: "5a79c244070fb7f7d10fbcfa24eed315252b4e662f42658029871d31afdbba9e"
@@ -270,7 +270,7 @@ packages:
     source: hosted
     version: "2.1.4"
   wifi_scan:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: wifi_scan
       sha256: aba3aa28f45b817356048022d0dde0c8b2e4054ed0151489bfc3103f7197d19d

@@ -1,6 +1,6 @@
 # findwifilist
 
-A new Flutter project.
+windwifilist
 
 ## Getting Started
 
